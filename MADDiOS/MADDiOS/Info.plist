@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	
+	<!-- HealthKit usage descriptions -->
+	<key>NSHealthShareUsageDescription</key>
+	<string>MADDiOS needs access to your health data to show your daily activity, mindfulness sessions, and heart rate to support your mental wellness journey.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>MADDiOS may write health data to track your mindfulness and focus sessions.</string>
+</dict>
+</plist>
